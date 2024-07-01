@@ -15,9 +15,6 @@ How can a company offer the best product and make the most money?
 How to segment profitable customers?
 How much budget need to spend to acquire customers?
 
-## Dataset
-I chose the dataset created by Prediction Consultants. This dataset was based on the transactions made between September 2020 and September 2021.
-
 ## Steps
 1. Importing necessary libraries: pandas, numpy, and scikit-learn for data manipulation and modeling.
 2. Loading and preprocessing data: Loading the e-commerce dataset, handling missing values, and converting data types as needed.
