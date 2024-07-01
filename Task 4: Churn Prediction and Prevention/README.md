@@ -19,17 +19,17 @@ Its ensemble nature allows it to capture non-linear patterns and interactions be
 
 # Insights: 
 1. Top 10 factors contributing to churn:
-      feature                 importance
-Total Charges                 0.321646
-Total_Charges                 0.257804
-Total Revenue                 0.144196
-Tenure in Months              0.072185
-Total Long Distance Charges   0.038104
-Monthly Charge                0.035972
-Streaming TV                  0.020254
-Streaming Movies              0.018768
-Device Protection Plan        0.018064
-Online Backup                 0.017131
+      feature                : importance
+Total Charges                : 0.321646
+Total_Charges                : 0.257804
+Total Revenue                : 0.144196
+Tenure in Months             : 0.072185
+Total Long Distance Charges  : 0.038104
+Monthly Charge               : 0.035972
+Streaming TV                 : 0.020254
+Streaming Movies             : 0.018768
+Device Protection Plan       : 0.018064
+Online Backup                : 0.017131
 2. Number of high-risk customers: 2098
 
 # Proposed retention strategies:
