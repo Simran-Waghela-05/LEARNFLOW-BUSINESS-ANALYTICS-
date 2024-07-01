@@ -38,7 +38,7 @@ K-means clustering is a popular choice for customer segmentation analysis becaus
 3. Scalability: K-means can handle large datasets efficiently, making it suitable for businesses with a vast customer base.
 4. Interpretability: The results of k-means are easy to visualize and understand. You can see how customer data points cluster together based on the chosen features. This allows you to interpret the segments and assign business meaning to them.
 
-## Insights Derived:
+### Insights Derived:
 Based on the customer segmentation results shown in the image, I can provide an analysis of the segments and derive actionable insights for marketing strategies:
 # 1. Cluster 0 (Purple): Affluent Older Customers
    - Characteristics: Highest average age (56.33), high annual income ($107,866), moderate spending score (49.11)
